@@ -1,0 +1,3 @@
+D:\Game projects\Wavebased survival\GameProject\Source\GameProject\GameProject.Build.cs
+D:\Game projects\Wavebased survival\GameProject\Source\GameProject.Target.cs
+D:\Game projects\Wavebased survival\GameProject\Source\GameProjectEditor.Target.cs

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameProject-2591.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\GameProject\GameProject.cpp.obj"
+"D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\GameProject\GameProjectGameModeBase.cpp.obj"
+"D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\GameProject\Heroes.cpp.obj"
+"D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\GameProject\GameProject.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\GameProject\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameProject-2591.lib"

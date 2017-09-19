@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7A3C9DE2-D2C1-4C2E-833E-5A7A2421266D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C95E6099-0B48-40BF-97BD-9FEEA852D51B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameProject">
+      <UniqueIdentifier>{D0615A00-CD43-46CD-9876-6C3233AD04EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameProject\GameProject.Build.cs">
+      <Filter>Source\GameProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameProject\GameProject.cpp">
+      <Filter>Source\GameProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameProject\GameProject.h">
+      <Filter>Source\GameProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameProject\GameProjectGameModeBase.cpp">
+      <Filter>Source\GameProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameProject\GameProjectGameModeBase.h">
+      <Filter>Source\GameProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\GameProject\Heroes.h">
+      <Filter>Source\GameProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\GameProject\Heroes.cpp">
+      <Filter>Source\GameProject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

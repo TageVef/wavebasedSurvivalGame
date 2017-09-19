@@ -1,0 +1,13 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for GameProjectEditor
+    Running UnrealHeaderTool "D:\Game projects\Wavebased survival\GameProject\GameProject.uproject" "D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\GameProjectEditor\Development\GameProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for GameProjectEditor in 6.0628384 seconds
+  Performing 4 actions (4 in parallel)
+  Heroes.cpp
+  GameProject.generated.cpp
+  [3/4] Link UE4Editor-GameProject-9908.dll
+  [4/4] Link UE4Editor-GameProject-9908.lib
+     Creating library D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameProject-9908.lib and object D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameProject-9908.exp
+     Creating library D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameProject-9908.suppressed.lib and object D:\Game projects\Wavebased survival\GameProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameProject-9908.suppressed.exp
+  Deploying GameProjectEditor Win64 Development...
+  Total build time: 39.35 seconds (Local executor: 8.42 seconds)
